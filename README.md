@@ -4,6 +4,8 @@ CryptoBuddy is a beginner-friendly AI-powered chatbot that analyzes real-time cr
 
 This project was built as part of a Week 1 AI Assignment on the PLP Academy. It integrates simple AI decision-making, natural language understanding using NLTK, and real-time crypto data via the CoinGecko API. 📈💬
 
+![image](https://github.com/user-attachments/assets/f0f41fd1-9f00-4d14-ace4-8c38f94e6799)
+
 ---
 
 ## 🔍 Features
